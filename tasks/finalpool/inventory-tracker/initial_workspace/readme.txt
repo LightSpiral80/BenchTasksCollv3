@@ -1,1 +1,1 @@
-initial
+Initial workspace for inventory-tracker

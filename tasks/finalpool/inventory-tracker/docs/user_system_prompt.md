@@ -1,1 +1,1 @@
-Inventory user prompt.
+This is an user system prompt for inventory-tracker

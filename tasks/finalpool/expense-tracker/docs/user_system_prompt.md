@@ -1,1 +1,1 @@
-Expense tracking user prompt.
+This is an user system prompt for expense-tracker
